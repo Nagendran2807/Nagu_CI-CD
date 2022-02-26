@@ -1,2 +1,2 @@
 line 1 MC-1
-line 2
+line 2 MC-2
